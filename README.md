@@ -1,15 +1,18 @@
 # Hola soy Yessica Andrea Perez Machuca 💕
-<!--
-**yessica0280/yessica0280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![imagen foto](blob:https://web.whatsapp.com/41a881ff-5849-49c5-bb13-68bd25c5b98c)
+Tengo 22 años soy del municipio de Tibú soy estudiante de Programación en Campuslands, me apasioan el desarrollo de software y el diseño grafico, en mis tiempos libres me gusta disfrutar de la lectura y escuchar musica, siempre busco aprender nuevas habilidades los cuales puedan complementar mi estudio en programación.
 
-Here are some ideas to get you started:
+## Lenguaje de programación:
+* Lenguajes de programación:
+  1. HTML Y CSS.
+  2. PYTHON.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades que domino:
+1. Trabajo en equipo.
+2. Comunicación.
+3. Adaptabilidad.
+4. Inteligencia emocional.
+5. Empatía.
+
+## Objetivos:
+Me gustaria poder trabajar en el desarrollo de software, continuar mi formación en desarrollo en programación. Mi objetivo principal es ayudar en proyectos de código.
