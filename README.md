@@ -1,5 +1,5 @@
 # Hola soy Yessica Andrea Perez Machuca 💕
-![imagen](imagen/)
+![imagen](imagen/yo.jpeg)
 
 Tengo 22 años soy del municipio de Tibú soy estudiante de Programación en Campuslands, me apasiona el desarrollo de software y el diseño gráfico, en mis tiempos libres me gusta disfrutar de la lectura y escuchar musica, siempre busco aprender nuevas habilidades los cuales puedan complementar mi estudio en programación.
 
